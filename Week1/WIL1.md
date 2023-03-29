@@ -1,4 +1,4 @@
-# 2주차 WIL
+# 1주차 WIL
 
 ## 1. MVC 패턴이란?
 - MVC: Model, View, Controller
